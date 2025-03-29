@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "mycape",
+	"version": "${version}",
+	"name": "MyCape",
+	"description": "A mod that allows players to select and use custom capes",
+	"authors": [
+		"wdsjgjb"
+	],
+	"contact": {
+		"homepage": ""
+	},
+	"license": "MIT",
+	"icon": "assets/mycape/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.mcooi.mycape.MyCape"
+		],
+		"client": [
+			"com.mcooi.mycape.MyCapeClient"
+		]
+	},
+	"mixins": [
+		"mycape.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

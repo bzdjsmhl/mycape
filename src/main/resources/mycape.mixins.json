@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.mcooi.mycape.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"PlayerCapeTextureMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "key.mycape.open_screen": "Open Cape Settings",
+  "category.mycape.general": "MyCape",
+  "screen.mycape.title": "Cape Settings",
+  "button.mycape.open_folder": "Open Capes Folder",
+  "button.mycape.apply_cape": "Apply Cape",
+  "button.mycape.prev_cape": "Prev Cape",
+  "button.mycape.next_cape": "Next Cape",
+  "screen.mycape.worn": "No Capes",
+  "screen.mycape.add": "To Add Cape",
+  "button.mycape.change_mode": "Change Mode"
+} 

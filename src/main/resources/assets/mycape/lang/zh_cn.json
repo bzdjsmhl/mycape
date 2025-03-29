@@ -1,0 +1,12 @@
+{
+  "key.mycape.open_screen": "打开披风设置",
+  "category.mycape.general": "我的披风",
+  "screen.mycape.title": "披风设置",
+  "button.mycape.open_folder": "打开披风文件夹",
+  "button.mycape.apply_cape": "应用披风",
+  "button.mycape.prev_cape": "上一张",
+  "button.mycape.next_cape": "下一张",
+  "screen.mycape.worn": "没有找到披风",
+  "screen.mycape.add": "请添加披风",
+  "button.mycape.change_mode": "启用或禁用"
+} 
