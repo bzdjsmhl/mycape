@@ -237,7 +237,7 @@ public class CapeScreen extends Screen {
     public void render(MatrixStack matrices, int mouseX, int mouseY, float delta) {
         this.renderBackground(matrices);
 
-        drawCenteredText(matrices, this.textRenderer, this.title, this.width / 2, 20, 0xFFFFFF);
+        drawCenteredText(matrices, this.textRenderer, this.title, this.width / 2, 15, 0xFFFFFF);
 
         if (previewTexture != null) {
             RenderSystem.setShader(GameRenderer::getPositionTexShader);
